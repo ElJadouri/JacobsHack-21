@@ -1,9 +1,9 @@
 # Jacobs-hack-2021
-
-## Deploy the application locally  
+This project is a Jacobs university communication web application, only Student can sign up and use the application. 
+## Deploy the application locally 
 ### Git
 - Initilize a repository in an empty directory:  `git init` <br/>
-- run: git clone `https://github.com/Hamza-Bouhelal/Jacobs-hack-2021` <br/>
+- run: `git clone https://github.com/Hamza-Bouhelal/Jacobs-hack-2021` <br/>
 - use `git status` to check whether everything is up to date <br/>
 ### Django Setup:
 - Create a virtual environment to install dependencies in and activate it: <br/>
