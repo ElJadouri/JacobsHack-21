@@ -7,13 +7,13 @@
 - use `git status` to check whether everything is up to date <br/>
 ### Django Setup:
 - Create a virtual environment to install dependencies in and activate it: <br/>
-    `pip install virtualenv`
-    `virtualenv env`
-    `\env\Scripts\activate.bat`
-    `pip install -r requirements.txt`
+    `pip install virtualenv` <br/>
+    `virtualenv env` <br/>
+    `\env\Scripts\activate.bat` <br/>
+    `pip install -r requirements.txt` <br/>
 - Run the server: <br/>
-    `cd Backend`
-    `python manage.py runserver`
+    `cd Backend` <br/>
+    `python manage.py runserver` <br/>
 ### React js Setup:
 - First cd to `Frontend` <br/>
 -Then install required node modules: <br/>
