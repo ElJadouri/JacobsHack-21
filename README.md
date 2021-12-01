@@ -1,5 +1,5 @@
 # Jacobs-hack-2021
-This project is a Jacobs university communication web application, only Student can sign up and use the application. 
+This project is a Jacobs university communication web application, only students can sign up and use the application. 
 ## Deploy the application locally 
 ### Git
 - Initilize a repository in an empty directory:  `git init` <br/>
