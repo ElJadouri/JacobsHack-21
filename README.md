@@ -17,7 +17,7 @@
 ### React js Setup:
 - First cd to `Frontend` <br/>
 -Then install required node modules: <br/>
-  `npm install`
+  `npm install` <br/>
 -You can now run the command `npm start` <br/>
 -Change the backend development server used to: http://127.0.0.1:8000 <br/>
 
